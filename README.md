@@ -1,5 +1,6 @@
 # Psych Image Database
 
+[github page](https://awtnb.github.io/psych-image-database/)
 
 + 心理学系図版の使用記録
 + 各書籍について、他所でも頻繁に引用される図版を中心に整理

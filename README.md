@@ -2,20 +2,10 @@
 
 [github](https://github.com/AWtnb/psych-image-database) / [history](https://github.com/AWtnb/psych-image-database/commits/main)
 
-+ 心理学系図版の使用記録
-+ 各書籍について、他所でも頻繁に引用される図版を中心に整理
-+ docsify [sample](https://github.com/docsifyjs/docsify/tree/develop/docs)
 
+心理学系書籍について以下のものを集約。
++ 多くの教科書で頻繁に引用される定番図版
++ 許諾処理を経て掲載している図版
++ 作図の仕方が定まらない（＝サンプルが多数必要な）イラスト _etc..._
 
-
-ファイル様式は下記
-
-```（5桁コード）.md
-# （書名）
-
-#### `（図表インデックス）OR（掲載ページ）` （図版名）
-（類似概念／検索用タグ）
-> （図表の出所書式）
-+ （備考）
-```
 
